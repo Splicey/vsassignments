@@ -1,0 +1,13 @@
+.button {
+  position: absolute;
+  padding: 10px 20px;
+  background-color: rgb(234, 34, 204);
+  color: white;
+  border: none;
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: blue;
+  color: white;
+}
